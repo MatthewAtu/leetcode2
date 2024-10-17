@@ -1,0 +1,5 @@
+﻿  leet7.cpp
+C:\Users\19052\OneDrive\Documents\Desktop\visual studio\leetcode\leetcode\leet7.cpp(9,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  leetcode.vcxproj -> C:\Users\19052\OneDrive\Documents\Desktop\visual studio\leetcode\x64\Debug\leetcode.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
